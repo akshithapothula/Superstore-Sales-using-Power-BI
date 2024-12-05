@@ -94,9 +94,7 @@ The business has demonstrated significant growth over the analyzed period, with 
 
 - **Forecast for Next 2 Quarters**:  
   - Predicted sales remain stable, with slight increases driven by strong performance in **Furniture** and **Technology** categories.
-
----
-
+ 
 These findings enable stakeholders to identify high-performing products, regions, and customer segments while addressing opportunities for growth in underperforming areas.
 
 ---
